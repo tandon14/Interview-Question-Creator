@@ -20,8 +20,6 @@ conda activate interview
 conda activate interview
 ```
 
-
-
 ### GitHub commands
 
 ```bash
@@ -29,7 +27,7 @@ conda activate interview
 
 2. git add .
 
-3. git commit -m "readme updated"
+3. git commit -m "updated 2"
 
 4. git push origin main
 
