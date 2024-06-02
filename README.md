@@ -27,7 +27,7 @@ conda activate interview
 
 2. git add .
 
-3. git commit -m "updated 2"
+3. git commit -m "updated 3"
 
 4. git push origin main
 
